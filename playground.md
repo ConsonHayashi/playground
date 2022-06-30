@@ -21,6 +21,3 @@ php playground.php
 ```
 
 ![image](./playground.drawio.svg)
-
-<hr style="page-break-after: always;"/>
-1
