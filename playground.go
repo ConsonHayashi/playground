@@ -5,3 +5,8 @@ import "fmt"
 func main()  {
 	fmt.Println("Hello, Language Go!");
 }
+
+struct ListNode {
+	data: int8
+	next: ListNode
+}
