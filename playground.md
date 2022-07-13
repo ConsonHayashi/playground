@@ -1,23 +1,12 @@
-# Playground
+# Diffrent Languages, Same Capbilities
 
-:doge:
-
-```sh
-# c compile and run
-rm ./playground; gcc -o playground playground.c; ./playground
-
-# php run
-php playground.php
-```
+不同程序语言有其共性，使用其共性举一反三。
 
 ![image](./playground.drawio.svg)
 
-```sh
-# c compile and run
-rm ./playground; gcc -o playground playground.c; ./playground
-
-# php run
-php playground.php
-```
-
-![image](./playground.drawio.svg)
+不同程序语言的能力有其特色。
+- [ ] network
+- [ ] file
+- [ ] database
+- [ ] ui
+- [ ] dependecy management

@@ -1,0 +1,10 @@
+{
+  "age": 28,
+  "name": "Tom",
+  "job": "teacher",
+  "students": [
+    {},
+    {},
+    {}
+  ]
+}

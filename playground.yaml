@@ -1,0 +1,7 @@
+name: Tom
+job: Teacher
+students:
+  - name: Alice
+    age: 8
+  - name: Jerry
+    age: 9

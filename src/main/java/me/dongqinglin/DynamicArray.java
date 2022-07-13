@@ -1,4 +1,6 @@
-package me.dongqinglin.capability.define;
+package me.dongqinglin;
+
+import java.util.ArrayList;
 
 public class DynamicArray {
 

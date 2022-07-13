@@ -1,5 +1,5 @@
 package dongqinglin
 
-func Add(a: i8, b) {
-
+func Add(x int8, y int8) (int8) {
+	return x + y
 }
